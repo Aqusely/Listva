@@ -5,9 +5,9 @@
 Мой первый проект на SwiftUI: от дизайна до готового приложения.
 
 <p align="center">
-  <img src="Screenshots/main.png" width="230" alt="Главный экран">
-  <img src="Screenshots/detail.png" width="230" alt="Карточка растения">
-  <img src="Screenshots/add.png" width="230" alt="Добавление растения">
+  <img src="screenshots/main.png" width="230" alt="Главный экран">
+  <img src="screenshots/detail.png" width="230" alt="Карточка растения">
+  <img src="screenshots/add.png" width="230" alt="Добавление растения">
 </p>
 
 ## Возможности
@@ -65,7 +65,7 @@ Listva/
 1. Нужен **Xcode 26** или новее.
 2. Склонируйте репозиторий:
    ```bash
-   git clone https://github.com/<ваш-логин>/Listva.git
+   git clone https://github.com/Aqusely/Listva.git
    ```
 3. Откройте `Listva.xcodeproj`, выберите симулятор iPhone и нажмите **⌘R**.
 
